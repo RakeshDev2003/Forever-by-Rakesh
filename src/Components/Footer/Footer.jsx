@@ -31,7 +31,7 @@ export default function Footer() {
 
             </div>
             <div className="footer-bottom">
-                <p>Copyright 2024@ Rakesh.dev - All Right Reserved.</p>
+                <p>Copyright 2025@ Rakesh.dev - All Right Reserved.</p>
             </div>
         </div>
     )
